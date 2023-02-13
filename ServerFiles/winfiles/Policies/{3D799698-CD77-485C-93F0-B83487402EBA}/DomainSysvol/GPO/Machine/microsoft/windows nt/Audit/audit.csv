@@ -1,0 +1,66 @@
+Machine Name,Policy Target,Subcategory,Subcategory GUID,Inclusion Setting,Exclusion Setting,Setting Value
+WIN-PBF3CH7SRKG,System,IPsec Driver,{0CCE9213-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,System Integrity,{0CCE9212-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,Security System Extension,{0CCE9211-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,Security State Change,{0CCE9210-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,Other System Events,{0CCE9214-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,Group Membership,{0CCE9249-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,User / Device Claims,{0CCE9247-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,Network Policy Server,{0CCE9243-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,Other Logon/Logoff Events,{0CCE921C-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,Special Logon,{0CCE921B-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,IPsec Extended Mode,{0CCE921A-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,IPsec Quick Mode,{0CCE9219-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,IPsec Main Mode,{0CCE9218-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,Account Lockout,{0CCE9217-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,Logoff,{0CCE9216-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,Logon,{0CCE9215-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,Handle Manipulation,{0CCE9223-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,Central Policy Staging,{0CCE9246-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,Removable Storage,{0CCE9245-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,Detailed File Share,{0CCE9244-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,Other Object Access Events,{0CCE9227-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,Filtering Platform Connection,{0CCE9226-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,Filtering Platform Packet Drop,{0CCE9225-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,File Share,{0CCE9224-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,Application Generated,{0CCE9222-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,Certification Services,{0CCE9221-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,SAM,{0CCE9220-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,Kernel Object,{0CCE921F-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,Registry,{0CCE921E-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,File System,{0CCE921D-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,Other Privilege Use Events,{0CCE922A-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,Non Sensitive Privilege Use,{0CCE9229-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,Sensitive Privilege Use,{0CCE9228-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,RPC Events,{0CCE922E-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,Token Right Adjusted Events,{0CCE924A-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,Process Creation,{0CCE922B-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,Process Termination,{0CCE922C-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,Plug and Play Events,{0CCE9248-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,DPAPI Activity,{0CCE922D-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,Other Policy Change Events,{0CCE9234-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,Authentication Policy Change,{0CCE9230-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,Audit Policy Change,{0CCE922F-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,Filtering Platform Policy Change,{0CCE9233-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,Authorization Policy Change,{0CCE9231-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,MPSSVC Rule-Level Policy Change,{0CCE9232-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,Other Account Management Events,{0CCE923A-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,Application Group Management,{0CCE9239-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,Distribution Group Management,{0CCE9238-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,Security Group Management,{0CCE9237-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,Computer Account Management,{0CCE9236-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,User Account Management,{0CCE9235-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,Directory Service Replication,{0CCE923D-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,Directory Service Access,{0CCE923B-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,Detailed Directory Service Replication,{0CCE923E-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,Directory Service Changes,{0CCE923C-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,Other Account Logon Events,{0CCE9241-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,Kerberos Service Ticket Operations,{0CCE9240-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,Credential Validation,{0CCE923F-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,System,Kerberos Authentication Service,{0CCE9242-69AE-11D9-BED3-505054503030},Success and Failure,,3
+WIN-PBF3CH7SRKG,,Option:CrashOnAuditFail,,Disabled,,0
+WIN-PBF3CH7SRKG,,Option:FullPrivilegeAuditing,,Enabled,,1
+WIN-PBF3CH7SRKG,,Option:AuditBaseObjects,,Enabled,,1
+WIN-PBF3CH7SRKG,,Option:AuditBaseDirectories,,Disabled,,0
+WIN-PBF3CH7SRKG,,FileGlobalSacl,,,,
+WIN-PBF3CH7SRKG,,RegistryGlobalSacl,,,,

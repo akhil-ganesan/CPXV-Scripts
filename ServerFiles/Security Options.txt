@@ -1,0 +1,99 @@
+Policy	Security Setting
+Accounts: Administrator account status	Disabled
+Accounts: Block Microsoft accounts	Not Defined
+Accounts: Guest account status	Disabled
+Accounts: Limit local account use of blank passwords to console logon only	Enabled
+Accounts: Rename administrator account	A
+Accounts: Rename guest account	G
+Audit: Audit the access of global system objects	Disabled
+Audit: Audit the use of Backup and Restore privilege	Disabled
+Audit: Force audit policy subcategory settings (Windows Vista or later) to override audit policy category settings	Not Defined
+Audit: Shut down system immediately if unable to log security audits	Disabled
+DCOM: Machine Access Restrictions in Security Descriptor Definition Language (SDDL) syntax	Not Defined
+DCOM: Machine Launch Restrictions in Security Descriptor Definition Language (SDDL) syntax	Not Defined
+Devices: Allow undock without having to log on	Enabled
+Devices: Allowed to format and eject removable media	Not Defined
+Devices: Prevent users from installing printer drivers	Enabled
+Devices: Restrict CD-ROM access to locally logged-on user only	Not Defined
+Devices: Restrict floppy access to locally logged-on user only	Not Defined
+Domain controller: Allow server operators to schedule tasks	Not Defined
+Domain controller: LDAP server signing requirements	Not Defined
+Domain controller: Refuse machine account password changes	Not Defined
+Domain member: Digitally encrypt or sign secure channel data (always)	Enabled
+Domain member: Digitally encrypt secure channel data (when possible)	Enabled
+Domain member: Digitally sign secure channel data (when possible)	Enabled
+Domain member: Disable machine account password changes	Disabled
+Domain member: Maximum machine account password age	30 days
+Domain member: Require strong (Windows 2000 or later) session key	Enabled
+Interactive logon: Display user information when the session is locked	Not Defined
+Interactive logon: Do not display last user name	Disabled
+Interactive logon: Do not require CTRL+ALT+DEL	Disabled
+Interactive logon: Machine account lockout threshold	Not Defined
+Interactive logon: Machine inactivity limit	Not Defined
+Interactive logon: Message text for users attempting to log on	
+Interactive logon: Message title for users attempting to log on	
+Interactive logon: Number of previous logons to cache (in case domain controller is not available)	10 logons
+Interactive logon: Prompt user to change password before expiration	5 days
+Interactive logon: Require Domain Controller authentication to unlock workstation	Disabled
+Interactive logon: Require smart card	Disabled
+Interactive logon: Smart card removal behavior	No Action
+Microsoft network client: Digitally sign communications (always)	Enabled
+Microsoft network client: Digitally sign communications (if server agrees)	Enabled
+Microsoft network client: Send unencrypted password to third-party SMB servers	Disabled
+Microsoft network server: Amount of idle time required before suspending session	15 minutes
+Microsoft network server: Attempt S4U2Self to obtain claim information	Not Defined
+Microsoft network server: Digitally sign communications (always)	Disabled
+Microsoft network server: Digitally sign communications (if client agrees)	Disabled
+Microsoft network server: Disconnect clients when logon hours expire	Enabled
+Microsoft network server: Server SPN target name validation level	Not Defined
+Network access: Allow anonymous SID/Name translation	Disabled
+Network access: Do not allow anonymous enumeration of SAM accounts	Enabled
+Network access: Do not allow anonymous enumeration of SAM accounts and shares	Enabled
+Network access: Do not allow storage of passwords and credentials for network authentication	Disabled
+Network access: Let Everyone permissions apply to anonymous users	Disabled
+Network access: Named Pipes that can be accessed anonymously	
+Network access: Remotely accessible registry paths	System\CurrentControlSet\Control\ProductOptions,System\CurrentControlSet\Control\Server Applications,Software\Microsoft\Windows NT\CurrentVersion
+Network access: Remotely accessible registry paths and sub-paths	System\CurrentControlSet\Control\Print\Printers,System\CurrentControlSet\Services\Eventlog,Software\Microsoft\OLAP Server,Software\Microsoft\Windows NT\CurrentVersion\Print,Software\Microsoft\Windows NT\CurrentVersion\Windows,System\CurrentControlSet\Control\ContentIndex,System\CurrentControlSet\Control\Terminal Server,System\CurrentControlSet\Control\Terminal Server\UserConfig,System\CurrentControlSet\Control\Terminal Server\DefaultUserConfiguration,Software\Microsoft\Windows NT\CurrentVersion\Perflib,System\CurrentControlSet\Services\SysmonLog
+Network access: Restrict anonymous access to Named Pipes and Shares	Enabled
+Network access: Restrict clients allowed to make remote calls to SAM	Not Defined
+Network access: Shares that can be accessed anonymously	Not Defined
+Network access: Sharing and security model for local accounts	Classic - local users authenticate as themselves
+Network security: Allow Local System to use computer identity for NTLM	Not Defined
+Network security: Allow LocalSystem NULL session fallback	Not Defined
+Network security: Allow PKU2U authentication requests to this computer to use online identities.
+
+	Not Defined
+Network security: Configure encryption types allowed for Kerberos	Not Defined
+Network security: Do not store LAN Manager hash value on next password change	Enabled
+Network security: Force logoff when logon hours expire	Disabled
+Network security: LAN Manager authentication level	Not Defined
+Network security: LDAP client signing requirements	Negotiate signing
+Network security: Minimum session security for NTLM SSP based (including secure RPC) clients	Require 128-bit encryption
+Network security: Minimum session security for NTLM SSP based (including secure RPC) servers	Require 128-bit encryption
+Network security: Restrict NTLM: Add remote server exceptions for NTLM authentication	Not Defined
+Network security: Restrict NTLM: Add server exceptions in this domain	Not Defined
+Network security: Restrict NTLM: Audit Incoming NTLM Traffic	Not Defined
+Network security: Restrict NTLM: Audit NTLM authentication in this domain	Not Defined
+Network security: Restrict NTLM: Incoming NTLM traffic	Not Defined
+Network security: Restrict NTLM: NTLM authentication in this domain	Not Defined
+Network security: Restrict NTLM: Outgoing NTLM traffic to remote servers	Not Defined
+Recovery console: Allow automatic administrative logon	Disabled
+Recovery console: Allow floppy copy and access to all drives and all folders	Disabled
+Shutdown: Allow system to be shut down without having to log on	Disabled
+Shutdown: Clear virtual memory pagefile	Disabled
+System cryptography: Force strong key protection for user keys stored on the computer	Not Defined
+System cryptography: Use FIPS compliant algorithms for encryption, hashing, and signing	Disabled
+System objects: Require case insensitivity for non-Windows subsystems	Enabled
+System objects: Strengthen default permissions of internal system objects (e.g. Symbolic Links)	Enabled
+System settings: Optional subsystems	
+System settings: Use Certificate Rules on Windows Executables for Software Restriction Policies	Disabled
+User Account Control: Admin Approval Mode for the Built-in Administrator account	Disabled
+User Account Control: Allow UIAccess applications to prompt for elevation without using the secure desktop	Disabled
+User Account Control: Behavior of the elevation prompt for administrators in Admin Approval Mode	Prompt for consent for non-Windows binaries
+User Account Control: Behavior of the elevation prompt for standard users	Prompt for credentials
+User Account Control: Detect application installations and prompt for elevation	Enabled
+User Account Control: Only elevate executables that are signed and validated	Disabled
+User Account Control: Only elevate UIAccess applications that are installed in secure locations	Enabled
+User Account Control: Run all administrators in Admin Approval Mode	Enabled
+User Account Control: Switch to the secure desktop when prompting for elevation	Enabled
+User Account Control: Virtualize file and registry write failures to per-user locations	Enabled
